@@ -1,4 +1,4 @@
 # C-
 C++
 
-Cateva prpgrame facute de mine!
+Cateva programe facute de mine!
